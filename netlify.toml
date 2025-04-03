@@ -4,3 +4,4 @@
 
 [build.environment]
   HUGO_VERSION = "0.145"  # Replace with the desired Hugo version
+GO_VERSION = "1.21" 
